@@ -1,0 +1,26 @@
+{
+  "Sequence": null,
+  "Name": "LeaveApp",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "54e6e44a-1c73-4911-ad10-abfbde6e274a",
+      "Name": "s5.jpg",
+      "File": null
+    },
+    {
+      "Id": "a7dd0e38-9e62-4eaf-9886-3e20ec5f7c9f",
+      "Name": "user-1.jpg",
+      "File": null
+    }
+  ],
+  "CreatedBy": "37",
+  "CreationDate": "2024-12-17T11:51:33.5479361Z",
+  "ModifiedBy": "37",
+  "ModificationDate": "2024-12-17T11:52:09.7951954Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "6d69acae-166e-40d6-bd07-3c5f44a06330",
+  "MaestroBlocksEntityState": 0
+}
