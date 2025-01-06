@@ -2399,14 +2399,57 @@
       "Id": "893573c4-069d-44c5-96ea-88c49c285422",
       "Code": null,
       "Name": ""
+    },
+    {
+      "TypeId": 2,
+      "SourceDeleteConstraintId": 1,
+      "TargetDeleteConstraintId": 1,
+      "ForeignKeyConfiguration": 1,
+      "SourceEntityId": "8b47f3c4-fa90-46d4-9fb8-a83fc8da7150",
+      "TargetEntityId": "6b6aa75f-cf33-4b74-b95d-9f877ccd262b",
+      "TargetColumnId": null,
+      "SourceColumnName": "Id",
+      "TargetColumnName": "DelegationId",
+      "TargetEntityName": "DelegatedProcess",
+      "SourceEntityName": "Delegation",
+      "DiagramId": "6654e30d-2f29-4f4e-b3db-e177654a5743",
+      "TargetDiagramId": null,
+      "Documentation": null,
+      "RefId": null,
+      "SourceErrorMessageOnDelete": "",
+      "TargetErrorMessageOnDelete": "",
+      "RelationPoints": [
+        {
+          "X": 738.0981092853368,
+          "Y": 311.3302732998038
+        },
+        {
+          "X": 955.1570744426137,
+          "Y": 1157.2790808438244
+        }
+      ],
+      "SourceRelationName": "DelegatedProcesses",
+      "TargetRelationName": "Delegation",
+      "_bridgeTableName": "Delegation_DelegatedProcess",
+      "BridgeTableName": "Delegation_DelegatedProcess",
+      "CreatedBy": 59,
+      "CreationDate": "2024-12-11T11:58:49.5773135Z",
+      "ModifiedBy": 59,
+      "ModificationDate": "2024-12-11T11:59:16.2326768Z",
+      "DeletedBy": null,
+      "DeletionDate": null,
+      "MetaData": {},
+      "Id": "f3106eed-d168-4ed8-bfbd-74cb46bafd57",
+      "Code": "",
+      "Name": ""
     }
   ],
   "Comments": null,
-  "Version": 22,
+  "Version": 23,
   "CreatedBy": 1701,
   "CreationDate": "2023-10-30T19:02:25.078635+04:00",
   "ModifiedBy": 37,
-  "ModificationDate": "2024-12-18T11:13:18.8964174Z",
+  "ModificationDate": "2025-01-02T09:46:54.8549555Z",
   "DeletedBy": null,
   "DeletionDate": null,
   "MetaData": {

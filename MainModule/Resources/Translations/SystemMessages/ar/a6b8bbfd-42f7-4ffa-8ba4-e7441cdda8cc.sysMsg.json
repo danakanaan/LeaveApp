@@ -1,6 +1,6 @@
 {
-  "LanguageCode": "ar",
   "TranslationModuleId": "00000000-0000-0000-0000-000000000000",
+  "LanguageCode": "ar",
   "Translations": {
     "tasks": "قائمة المهام",
     "appRequestCode": "رمز الطلب",
@@ -205,12 +205,15 @@
     "stateName": "اسم الحالة",
     "wFInstanceDate": "تاريخ التغيير"
   },
+  "FixedTranslations": [],
   "CreatedBy": null,
   "CreationDate": null,
-  "ModifiedBy": null,
-  "ModificationDate": null,
+  "ModifiedBy": 37,
+  "ModificationDate": "2025-01-02T08:54:08.6691969Z",
   "DeletedBy": null,
   "DeletionDate": null,
+  "MetaData": {},
   "Id": "a6b8bbfd-42f7-4ffa-8ba4-e7441cdda8cc",
-  "Code": null
+  "Code": null,
+  "Name": ""
 }

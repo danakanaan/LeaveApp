@@ -1,6 +1,6 @@
 {
-  "LanguageCode": "en",
   "TranslationModuleId": "00000000-0000-0000-0000-000000000000",
+  "LanguageCode": "en",
   "Translations": {
     "tasks": "Tasks",
     "assignedTo": "Assigned to",
@@ -178,12 +178,17 @@
     "stateName": "State Name",
     "wFInstanceDate": "Changed Date"
   },
+  "FixedTranslations": [
+    "tasks"
+  ],
   "CreatedBy": 2,
   "CreationDate": "2024-01-30T10:39:24.4125356Z",
-  "ModifiedBy": 2,
-  "ModificationDate": "2024-02-02T09:07:01.3605994Z",
+  "ModifiedBy": 37,
+  "ModificationDate": "2025-01-02T08:54:08.6434313Z",
   "DeletedBy": null,
   "DeletionDate": null,
+  "MetaData": {},
   "Id": "b83eb0e3-dbe2-4cb6-a1ef-71da594e3e19",
-  "Code": null
+  "Code": null,
+  "Name": ""
 }
